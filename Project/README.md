@@ -56,7 +56,7 @@ Cada puzzle funciona como un nivel independiente. El jugador selecciona, arrastr
 
 Ruta prevista:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Arquitectura
 
@@ -81,15 +81,15 @@ La lógica principal se organiza dentro de `Assets/Puzzles/Scripts`:
 
 ## Código recomendado para revisar
 
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/LvlManager.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/LvlManager.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_Puzzle.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_Puzzle.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_PuzzleLogic.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_PuzzleLogic.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Cell.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Cell.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/CellGroup.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/CellGroup.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/SoundManager.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/SoundManager.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Ads/AdsManager.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Ads/AdsManager.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/LvlManager.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/LvlManager.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_Puzzle.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_Puzzle.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_PuzzleLogic.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_PuzzleLogic.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Cell.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Cell.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/CellGroup.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/CellGroup.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/SoundManager.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/SoundManager.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Ads/AdsManager.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Ads/AdsManager.cs)
 
 ## Build
 

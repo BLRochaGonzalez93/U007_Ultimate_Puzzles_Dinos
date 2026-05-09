@@ -56,7 +56,7 @@ Each puzzle works as an independent level. The player selects, drags and places 
 
 Planned path:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
@@ -81,21 +81,21 @@ The main logic is organized inside `Assets/Puzzles/Scripts`:
 
 ## Recommended code to review
 
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/LvlManager.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/LvlManager.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_Puzzle.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_Puzzle.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_PuzzleLogic.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_PuzzleLogic.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Cell.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Cell.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/CellGroup.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/CellGroup.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/SoundManager.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/SoundManager.cs)
-- [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Ads/AdsManager.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Ads/AdsManager.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/LvlManager.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/LvlManager.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_Puzzle.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_Puzzle.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_PuzzleLogic.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Board_PuzzleLogic.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Cell.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Cell.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/CellGroup.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/CellGroup.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/SoundManager.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/SoundManager.cs)
+[`PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Ads/AdsManager.cs`](./PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Ads/AdsManager.cs)
 
 ## Build
 
 The build is available through GitHub Releases.
 
-[`Releases/Download.md`](../Releases/Download.md)
+[`Releases/Download.md`](../Releases/Download.en.md)
 
 [Download build U007-v1.0.0](https://github.com/BLRochaGonzalez93/U007_Ultimate_Puzzles_Dinos/releases/tag/U007-v1.0.0)
 

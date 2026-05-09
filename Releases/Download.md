@@ -71,4 +71,4 @@ Juego desarrollado pendiente de publicación.
 
 ## Repositorio
 
-[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U010_Sokar/U007_Ultimate_Puzzles_Dinos)
+[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U007_Ultimate_Puzzles_Dinos)
