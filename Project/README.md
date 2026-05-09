@@ -79,10 +79,6 @@ La lógica principal se organiza dentro de `Assets/Puzzles/Scripts`:
 - `Lib` — utilidades.
 - `TextureScale` — escalado o procesamiento de texturas.
 
-Más información en:
-
-[`Docs/Architecture.md`](./Docs/Architecture.md)
-
 ## Código recomendado para revisar
 
 - [`Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs`](./Project/PRJ_UltimatePuzzles/Assets/Puzzles/Scripts/Game.cs)
@@ -99,7 +95,7 @@ Más información en:
 
 La build está disponible en GitHub Releases.
 
-[`Releases/Download.md`](./Releases/Download.md)
+[`Releases/Download.md`](../Releases/Download.md)
 
 [Descargar build U007-v1.0.0](https://github.com/BLRochaGonzalez93/U007_Ultimate_Puzzles_Dinos/releases/tag/U007-v1.0.0)
 
