@@ -1,0 +1,10 @@
+Ultimate Puzzles Dinos - Increment 033 Technical Cleanup
+
+- Corrected ReleaseCandidateAudit menu detection.
+- Retired Increment029QualityAudit.
+- Retired Increment030MenuCleanup.
+- Removed stale Run Increment references from operational editor tools.
+- No scenes, layouts, gameplay, progression, build profiles or publishing data are changed.
+
+Final check:
+VRM Games > Ultimate Puzzles Dinos > Release > Run Release Candidate Audit

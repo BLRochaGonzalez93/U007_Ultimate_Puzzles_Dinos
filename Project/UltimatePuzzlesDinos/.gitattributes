@@ -1,0 +1,64 @@
+* text=auto eol=lf
+
+# Unity text serialization
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.mat text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+*.overrideController text eol=lf
+*.physicMaterial text eol=lf
+*.physicsMaterial2D text eol=lf
+*.playable text eol=lf
+*.mask text eol=lf
+*.brush text eol=lf
+*.flare text eol=lf
+*.fontsettings text eol=lf
+*.guiskin text eol=lf
+*.shadervariants text eol=lf
+*.asmdef text eol=lf
+*.asmref text eol=lf
+*.inputactions text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.cs text eol=lf
+*.shader text eol=lf
+*.hlsl text eol=lf
+*.compute text eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.psd binary
+*.ase binary
+*.aseprite binary
+*.fbx binary
+*.blend binary
+*.obj binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.ttf binary
+*.otf binary
+*.dll binary
+*.so binary
+*.a binary
+*.jar binary
+*.aar binary
+*.zip binary
+*.7z binary
+*.rar binary
+*.pdf binary

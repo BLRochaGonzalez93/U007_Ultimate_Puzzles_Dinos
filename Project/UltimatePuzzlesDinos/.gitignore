@@ -1,0 +1,50 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Bb]uild/
+/[Bb]uilds/
+
+# User-specific Unity settings
+/[Uu]serSettings/
+
+# IDEs and generated project files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash and temporary files
+sysinfo.txt
+*.tmp
+*.bak
+*.swp
+
+# Builds and Android signing
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Unity cache packages must never be versioned
+/[Pp]ackages/packages-lock.json.backup

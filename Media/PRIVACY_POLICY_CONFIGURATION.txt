@@ -1,0 +1,12 @@
+Ultimate Puzzles Dinos - Privacy configuration
+
+Privacy Policy URL:
+https://raw.githubusercontent.com/BLRochaGonzalez93/U007_Ultimate_Puzzles_Dinos/main/Media/PRIVACY_POLICY.md
+
+Support email:
+rochagonzalez.blas.93@gmail.com
+
+Website:
+https://blrochagonzalez93.github.io/projects/007-ultimate-puzzles-dinos.html
+
+The policy source lives at Media/PRIVACY_POLICY.md.

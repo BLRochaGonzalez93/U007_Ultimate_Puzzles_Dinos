@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4beedde31596c494fba87e139841ddbc, type: 3}
+  m_Name: AndroidPublishingConfig
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::VRMGames.UltimatePuzzlesDinos.EditorTools.AndroidPublishingConfig
+  companyName: VRM Games
+  freeProductName: Ultimate Puzzles Dinos
+  premiumProductName: Ultimate Puzzles Dinos Premium
+  bundleVersion: 1.0.0
+  freeBundleVersionCode: 1
+  premiumBundleVersionCode: 1
+  applicationIcon: {fileID: 2800000, guid: 3fb5290adf5d4894eaec9edefb51af94, type: 3}
+  splashBackground: {r: 0.055, g: 0.055, b: 0.055, a: 1}
+  showUnityLogo: 1
+  privacyPolicyUrl: https://github.com/BLRochaGonzalez93/U007_Ultimate_Puzzles_Dinos/tree/main/Media/PRIVACY_POLICY.md
+  supportEmail: rochagonzalez.blas.93@gmail.com
+  websiteUrl: https://blrochagonzalez93.github.io/projects/007-ultimate-puzzles-dinos.html

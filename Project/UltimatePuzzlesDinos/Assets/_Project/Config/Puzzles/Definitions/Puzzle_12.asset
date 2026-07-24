@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f90f23e93c508c48b254e4e548dac4b, type: 3}
+  m_Name: Puzzle_12
+  m_EditorClassIdentifier: Assembly-CSharp::VRMGames.UltimatePuzzlesDinos.Content.PuzzleDefinition
+  id: dino_012
+  displayName: Dinosaurio 12
+  image: {fileID: 21300000, guid: 31f2ac0f3299a3f4b8c0d2f51529bf5c, type: 3}
+  fallbackColor: {r: 0.6315313, g: 0.2624, b: 0.82, a: 1}

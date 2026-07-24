@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bba06a749f03cb64d8d917ef06b18dd3, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: Assembly-CSharp::VRMGames.UltimatePuzzlesDinos.Audio.AudioConfig
+  mainMenuMusic: {fileID: 8300000, guid: a66b77ec414f8934f85cb0a20ef6cc35, type: 3}
+  gameplayMusic: {fileID: 8300000, guid: f8e3567c08037914293b2a6d69dfaa84, type: 3}
+  buttonClick: {fileID: 8300000, guid: bd64d970f3e3da444a504a38d5739fee, type: 3}
+  pieceCorrect: {fileID: 8300000, guid: 9cb43219f8e84234398c6899b5eb1b1c, type: 3}
+  pieceIncorrect: {fileID: 8300000, guid: 2d2999b40e6286c47af8cdf19bf79b6f, type: 3}
+  puzzleCompleted: {fileID: 8300000, guid: 143795a60d6dbea44831bd7d68ef3e75, type: 3}

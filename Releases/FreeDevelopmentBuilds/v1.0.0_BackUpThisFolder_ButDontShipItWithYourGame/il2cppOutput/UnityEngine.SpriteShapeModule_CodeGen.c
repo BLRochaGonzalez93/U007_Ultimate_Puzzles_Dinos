@@ -1,0 +1,71 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void SpriteShapeSegment_set_geomIndex_m14DE47F211B8A0689AE1CBD62C3A1EEFF0605E25 (void);
+extern void SpriteShapeSegment_set_indexCount_m28732D6B993D21A6327A1A0CEC2AA9EDCCA2C4A1 (void);
+extern void SpriteShapeSegment_get_vertexCount_m7FAC6E2254D9AC12C0293E26EEC5BE64832F7381 (void);
+extern void SpriteShapeSegment_set_vertexCount_mFF8D13BF27EC6010581D458BB131F118EF52A0F3 (void);
+extern void SpriteShapeSegment_set_spriteIndex_mDAFA4E1F6BB47EE7540C6CD46CC5376652DADC13 (void);
+extern void SpriteShapeRenderer_GetSplineMeshCount_mB0789A1FCA7CCC40FA3083EF173146088719A62A (void);
+extern void SpriteShapeRenderer_GetSplineMeshCount_Injected_m8EB1F051BF5101331D1E585EBE5CF54B71D439CA (void);
+static Il2CppMethodPointer s_methodPointers[7] = 
+{
+	SpriteShapeSegment_set_geomIndex_m14DE47F211B8A0689AE1CBD62C3A1EEFF0605E25,
+	SpriteShapeSegment_set_indexCount_m28732D6B993D21A6327A1A0CEC2AA9EDCCA2C4A1,
+	SpriteShapeSegment_get_vertexCount_m7FAC6E2254D9AC12C0293E26EEC5BE64832F7381,
+	SpriteShapeSegment_set_vertexCount_mFF8D13BF27EC6010581D458BB131F118EF52A0F3,
+	SpriteShapeSegment_set_spriteIndex_mDAFA4E1F6BB47EE7540C6CD46CC5376652DADC13,
+	SpriteShapeRenderer_GetSplineMeshCount_mB0789A1FCA7CCC40FA3083EF173146088719A62A,
+	SpriteShapeRenderer_GetSplineMeshCount_Injected_m8EB1F051BF5101331D1E585EBE5CF54B71D439CA,
+};
+extern void SpriteShapeSegment_set_geomIndex_m14DE47F211B8A0689AE1CBD62C3A1EEFF0605E25_AdjustorThunk (void);
+extern void SpriteShapeSegment_set_indexCount_m28732D6B993D21A6327A1A0CEC2AA9EDCCA2C4A1_AdjustorThunk (void);
+extern void SpriteShapeSegment_get_vertexCount_m7FAC6E2254D9AC12C0293E26EEC5BE64832F7381_AdjustorThunk (void);
+extern void SpriteShapeSegment_set_vertexCount_mFF8D13BF27EC6010581D458BB131F118EF52A0F3_AdjustorThunk (void);
+extern void SpriteShapeSegment_set_spriteIndex_mDAFA4E1F6BB47EE7540C6CD46CC5376652DADC13_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[5] = 
+{
+	{ 0x06000001, SpriteShapeSegment_set_geomIndex_m14DE47F211B8A0689AE1CBD62C3A1EEFF0605E25_AdjustorThunk },
+	{ 0x06000002, SpriteShapeSegment_set_indexCount_m28732D6B993D21A6327A1A0CEC2AA9EDCCA2C4A1_AdjustorThunk },
+	{ 0x06000003, SpriteShapeSegment_get_vertexCount_m7FAC6E2254D9AC12C0293E26EEC5BE64832F7381_AdjustorThunk },
+	{ 0x06000004, SpriteShapeSegment_set_vertexCount_mFF8D13BF27EC6010581D458BB131F118EF52A0F3_AdjustorThunk },
+	{ 0x06000005, SpriteShapeSegment_set_spriteIndex_mDAFA4E1F6BB47EE7540C6CD46CC5376652DADC13_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[7] = 
+{
+	10613,
+	10613,
+	13958,
+	10613,
+	10613,
+	13958,
+	22019,
+};
+extern const Il2CppDebuggerMetadataRegistration g_DebuggerMetadataRegistrationUnityEngine_SpriteShapeModule;
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_SpriteShapeModule_CodeGenModule;
+const Il2CppCodeGenModule g_UnityEngine_SpriteShapeModule_CodeGenModule = 
+{
+	"UnityEngine.SpriteShapeModule.dll",
+	7,
+	s_methodPointers,
+	5,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	&g_DebuggerMetadataRegistrationUnityEngine_SpriteShapeModule,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

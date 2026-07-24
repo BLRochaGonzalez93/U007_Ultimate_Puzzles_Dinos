@@ -1,0 +1,8 @@
+D:/_PROGRAMAS/_ARCHIVOS/0_GameDevPortfolio/U007_Ultimate_Puzzles_Dinos/Project/UltimatePuzzlesDinos/.utmp/Debug/1y454m61/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/_PROGRAMAS/_ARCHIVOS/0_GameDevPortfolio/U007_Ultimate_Puzzles_Dinos/Project/UltimatePuzzlesDinos/.utmp/Debug/1y454m61/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/_PROGRAMAS/_ARCHIVOS/0_GameDevPortfolio/U007_Ultimate_Puzzles_Dinos/Project/UltimatePuzzlesDinos/.utmp/Debug/1y454m61/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/_PROGRAMAS/_ARCHIVOS/0_GameDevPortfolio/U007_Ultimate_Puzzles_Dinos/Project/UltimatePuzzlesDinos/.utmp/Debug/1y454m61/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/_PROGRAMAS/_ARCHIVOS/0_GameDevPortfolio/U007_Ultimate_Puzzles_Dinos/Project/UltimatePuzzlesDinos/.utmp/Debug/1y454m61/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/_PROGRAMAS/_ARCHIVOS/0_GameDevPortfolio/U007_Ultimate_Puzzles_Dinos/Project/UltimatePuzzlesDinos/.utmp/Debug/1y454m61/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/_PROGRAMAS/_ARCHIVOS/0_GameDevPortfolio/U007_Ultimate_Puzzles_Dinos/Project/UltimatePuzzlesDinos/.utmp/Debug/1y454m61/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/_PROGRAMAS/_ARCHIVOS/0_GameDevPortfolio/U007_Ultimate_Puzzles_Dinos/Project/UltimatePuzzlesDinos/.utmp/Debug/1y454m61/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
